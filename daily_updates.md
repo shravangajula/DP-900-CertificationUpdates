@@ -21,3 +21,8 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Identified options for Azure SQL services.
 - Explored options for open-source databases in Azure.
 - Learned how to provision a database service on Azure.
+- Described features and capabilities of Azure Blob Storage.
+- Described features and capabilities of Azure Data Lake Storage Gen2.
+- Described features and capabilities of Azure File Storage.
+- Described features and capabilities of Azure Table Storage.
+- Provisioned and used an Azure Storage account.
