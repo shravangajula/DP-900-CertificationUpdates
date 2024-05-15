@@ -16,3 +16,8 @@
 - Completed knowledge checks related to data professional roles, cloud services, relational data characteristics, SQL statements, and relational database objects.
 
 above mentioned is mostly focused on data formats, storage options, processing solutions, professional roles, and cloud services enriches our understanding of foundational concepts in data management and analytics, enhancing our proficiency in data engineering and related roles.
+
+## May 15, 2024
+- Identified options for Azure SQL services.
+- Explored options for open-source databases in Azure.
+- Learned how to provision a database service on Azure.
