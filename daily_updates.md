@@ -34,3 +34,12 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Described key features and capabilities of Azure Cosmos DB.
 - Identified different Azure Cosmos DB APIs.
 - Provisioned and used an Azure Cosmos DB instance.
+
+**Explore fundamentals of large-scale analytics**
+- Identified common elements of a large-scale data analytics solution.
+- Described key features for data ingestion pipelines.
+- Identified common types of analytical data stores.
+- Identified platform-as-a-service (PaaS) analytics services in Azure.
+- Provisioned Azure Synapse Analytics and used it to ingest, process, and query data.
+- Described features of Microsoft Fabric, a software-as-a-service (SaaS) solution for data analytics.
+- Used Microsoft Fabric to ingest and analyze data.
