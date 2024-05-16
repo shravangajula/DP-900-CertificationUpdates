@@ -43,3 +43,18 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Provisioned Azure Synapse Analytics and used it to ingest, process, and query data.
 - Described features of Microsoft Fabric, a software-as-a-service (SaaS) solution for data analytics.
 - Used Microsoft Fabric to ingest and analyze data.
+
+**May 16th, 2024**
+**Explore fundamentals of real-time analytics**
+- Compared batch processing and stream processing, highlighting their use cases and differences.
+- Described common elements of streaming data solutions.
+- Explored features and capabilities of Azure Stream Analytics.
+- Learned about features and capabilities of Spark Structured Streaming on Azure.
+- Described features and capabilities of Azure Synapse Data Explorer.
+- Examined features and capabilities of real-time analytics in Microsoft Fabric.
+
+**Explore fundamentals of data visualization**
+- Described a high-level process for creating reporting solutions with Microsoft Power BI.
+- Explained core principles of analytical data modeling.
+- Identified common types of data visualization and their uses.
+- Created an interactive report using Power BI Desktop.
