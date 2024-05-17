@@ -58,3 +58,8 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Explained core principles of analytical data modeling.
 - Identified common types of data visualization and their uses.
 - Created an interactive report using Power BI Desktop.
+
+**May 20, 2024**
+- Reviewed 80 Azure Data Engineer Associate certification questions from a YouTube video.
+- Took a practice exam from the Microsoft official page.
+
