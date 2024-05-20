@@ -63,3 +63,6 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Reviewed 80 Azure Data Engineer Associate certification questions from a YouTube video.
 - Took a practice exam from the Microsoft official page.
 
+
+took a practice exam on the official Microsoft site and scored 82%.
+
