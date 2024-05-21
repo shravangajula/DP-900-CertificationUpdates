@@ -64,5 +64,5 @@ above mentioned is mostly focused on data formats, storage options, processing s
 - Took a practice exam from the Microsoft official page.
 
 
-took a practice exam on the official Microsoft site and scored 82%.
+took a practice exam on the official Microsoft site and scored 82% on the first attempt and 88% on the second attempt.
 
