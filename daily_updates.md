@@ -66,5 +66,5 @@ above mentioned is mostly focused on data formats, storage options, processing s
 
 took a practice exam on the official Microsoft site and scored 82% on the first attempt and 88% on the second attempt.
 
-- Took the exam on May 23, 2024, and passed it.
+- Took the exam on May 23, 2024, and passed it.✅
 
